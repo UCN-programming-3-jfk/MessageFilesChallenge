@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MessageFilesConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\temp\\messages\\ sort"
+    }
+  }
+}
